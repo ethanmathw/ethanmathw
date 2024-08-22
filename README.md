@@ -4,7 +4,7 @@ I am an aspiring data scientist/software engineer with a strong foundation in co
 
 ---
 
-### 🎓 Computer Science and Statistics Student**  
+### 🎓 Computer Science and Statistics Student
 - University of Illinois Urbana Champaign | Grainger School of Engineering  
 - 📅 Expected Graduation: May 2026
 
