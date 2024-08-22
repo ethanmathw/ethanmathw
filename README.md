@@ -1,12 +1,13 @@
 # Hi there👋 I'm Ethan Mathew
 
-**🎓 Computer Science and Statistics Student**  
-University of Illinois Urbana Champaign | Grainger School of Engineering  
-📅 Expected Graduation: May 2026
+I am an aspiring data scientist/software engineer with a strong foundation in computer science and statistics, complemented by hands-on experience in data analytics, machine learning, and software development.
 
 ---
 
-Aspiring data scientist/software engineer with a strong foundation in computer science and statistics, complemented by hands-on experience in data analytics, machine learning, and software development.
+###🎓 Computer Science and Statistics Student**  
+University of Illinois Urbana Champaign | Grainger School of Engineering  
+📅 Expected Graduation: May 2026
+
 
 ### 💼 Professional Experience
 - **Expedia Group | Data Science and Analytics Intern**  
