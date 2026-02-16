@@ -10,6 +10,7 @@ I am an aspiring data scientist/software engineer with a strong foundation in co
 
 
 ### 💼 Professional Experience
+- **Microsoft | Machine Learning Scientist Intern**
 - **Expedia Group | Data Science and Analytics Intern**  
 - **Synchrony Financial | Data Science and Consulting Intern**  
 - **Illinois Business Consulting | Software Engineer**  
